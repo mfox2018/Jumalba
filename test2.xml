@@ -2,7 +2,7 @@
 
 <item>
 <title>Canales Lista</title>        
-<urlsolve>https://raw.githubusercontent.com/mfox2018/Jumalba/master/tv_channels_nkniip.m3u</urlsolve>
+<externallink>https://raw.githubusercontent.com/mfox2018/Jumalba/master/tv_channels_nkniip.m3u</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
