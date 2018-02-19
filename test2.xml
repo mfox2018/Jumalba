@@ -2,15 +2,24 @@
 
 <item>
     <title>Telemundo Using Vaughnlive Plugin</title>
-    <vaughn>telemundo21</vaughn>
+    <vaughn>acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c</vaughn>
 </item>
 <item>
     <title>Test p2p</title>
-    <p2p>71e3f5184a8f1948c7a84595c7ce8953a9150ee9</p2p>
+    <p2p>acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c</p2p>
 </item>
 <item>
     <title>beIN SPORTS 3HD</title>
     <thumbnail></thumbnail>
-    <sportsdevil>http://showsport-tv.com//update/bein3.html</sportsdevil>
-    <referer>http://showsport-tv.com/</referer>
+    <sportsdevil>acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c</sportsdevil>
+</item>
+<item>
+    <title>beIN SPORTS 3HD</title>
+    <thumbnail></thumbnail>
+    <Plexus>acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c</sportsdevil>
+</item>
+<item>
+    <title>beIN SPORTS 3HD</title>
+    <thumbnail></thumbnail>
+    <imdbid>acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c</sportsdevil>
 </item>
