@@ -2,7 +2,13 @@
 
 <item>
 <title>Robbie Williams - Millennium</title>        
-<urlsolve>https://www.youtube.com/watch?v=xcWOviMI6Lk</urlsolve>
+<urlsolve>https://youtu.be/xcWOviMI6Lk</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/mfox2018/Jumalba/master/Portadas/millenium.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/mfox2018/Jumalba/master/Portadas/millenium2.jpg</fanart>
+</item>
+<item>
+<title>Robbie Williams - She's The One</title>        
+<urlsolve>https://www.youtube.com/watch?v=sVaRHJn_dgM&list=RDxcWOviMI6Lk&index=3</urlsolve>
 <thumbnail>https://raw.githubusercontent.com/mfox2018/Jumalba/master/Portadas/millenium.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/mfox2018/Jumalba/master/Portadas/millenium2.jpg</fanart>
 </item>
